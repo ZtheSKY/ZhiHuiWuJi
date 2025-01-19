@@ -1,0 +1,1 @@
+GEN_CSRCS += _logo_alpha_344x96.c
